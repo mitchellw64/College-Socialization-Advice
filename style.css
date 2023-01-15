@@ -1,0 +1,47 @@
+ 
+  html {
+  	 background: linear-gradient(to bottom, #ccffff 0%, #99ccff 100%);
+  
+  }
+
+ 
+  #head_title {
+    color: #6600FF;
+    text-align: center;
+    font-size: +45;
+  }
+  
+
+  
+  *{
+    margin: 2;
+    padding: 8;
+    box-sizing: border-box;
+   }
+  
+  #buttons {
+  min-width: 200px;
+  height: 45px;
+  color: #fff;
+  padding: 5px 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 50px;
+  border: 5px solid #2c0b8e;
+  background: #2c0b8e;
+  font-size: +18;
+ 
+}
+  #buttons:hover {
+  background: linear-gradient(to bottom, #ccffff 0%, #99ccff 100%);
+  color: #2c0b8e
+}
+  
+  #head_paragraph {
+  	font-size: +18
+  }
+  
